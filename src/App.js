@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      {dataElement}
+      <div className='app--cards_elements'> {dataElement} </div>
     </div>
   );
 }

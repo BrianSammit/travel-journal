@@ -1,0 +1,57 @@
+.card{
+  margin-top: 50px;
+  width: 470px;
+  display: flex;
+  align-items: center;
+  color: #2B283A;
+}
+
+.card img {
+  width: 126px;
+  height: 168px;
+  border-radius: 5px;
+}
+
+.card--description {
+  margin-left: 20px;
+}
+
+.card--location {
+  text-transform: uppercase; 
+  font-weight: 400;
+  font-size: 10px;
+  color: #2B283A;
+  letter-spacing: 0.17em;
+}
+
+.card--location span {
+  color: #F55A5A;
+  margin-right: 5px;
+}
+
+.card--location a {
+  color: #918E9B;
+  letter-spacing: 0;
+  margin-left: 10px;
+}
+
+.card--h2 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.card--date {
+  margin-top: 20px;
+  font-weight: 700;
+  font-size: 10.24px;
+  line-height: 12px;
+}
+
+.card--description {
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: #2B283A;
+}
+
