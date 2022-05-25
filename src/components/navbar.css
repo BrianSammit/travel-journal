@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  background-color: #F55A5A;
+  color: white;
+}
+
+nav h1 {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+}
+
+.navbar--earth_icon {
+  font-size: 30px;
+  margin: 10px;
+}
